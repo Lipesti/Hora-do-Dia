@@ -1,0 +1,27 @@
+body{
+    background: rgb(56, 161, 202);
+    font: normal 16pt Cursive;
+}
+
+header{
+    color: rgb(96, 96, 100);
+    text-align: center;
+}
+div{
+    text-align: center;
+    font-weight: bold;
+    padding: 6px;
+}
+section{
+    background: rgb(245, 245, 245);
+    border-radius: 10px;
+    padding: 17px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 6px 6px 11px rgb(53, 53, 53);
+}
+
+footer{
+    color: rgb(68, 85, 160);
+    text-align: center;
+}
